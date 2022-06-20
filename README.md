@@ -8,7 +8,7 @@
 - SafeMath implementation
 - Factory implementation
 
-###Projects
+### Projects
 - Benefic causes
 - Grades
 - Vote
